@@ -1,2 +1,2 @@
-# Vision_Artificial_MCC
-Trabajos del curso de vision artificial - Maestría en Ciencias de la computación [UNSA]
+# Vision Artificial
+## Trabajos del curso de vision artificial - Maestría en ciencias de la computación [UNSA]
